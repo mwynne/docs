@@ -11,8 +11,12 @@
             "id": "47d32659062c4bf9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Containerized-CICD/Docker.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Containerized-CICD/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Containerized-CICD/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Containerized-CICD/Docker.md"
+              }
             }
           }
         ]
@@ -147,10 +155,10 @@
   },
   "active": "47d32659062c4bf9",
   "lastOpenFiles": [
+    "Projects/Containerized-CICD/Jenkins.md",
+    "Projects/Containerized-CICD/Docker.md",
     "2023-09-26.md",
     "README.md",
-    "Projects/Containerized-CICD/Docker.md",
-    "Projects/Containerized-CICD/Jenkins.md",
     "Projects/Jenkins.md"
   ]
 }
