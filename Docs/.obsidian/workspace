@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "a83809ad5b8039e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "24edb06f7d9420a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/Containerized-CICD/Docker.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "238fcc27f5a03cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "012a36f1a3e9eb50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f0e791d05cd907",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "85cd39b8610ac416",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c44c18fdb9b26c16",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e255339d61e87302",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dc5f1326ae8abd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20aea820bd0a563",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Containerized-CICD/Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a456b1d29c4ef36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Containerized-CICD/Docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91840b4755706138",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d10196cb10257d2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Containerized-CICD/Docker.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "24edb06f7d9420a8",
+  "lastOpenFiles": [
+    "Projects/Containerized-CICD/Jenkins.md",
+    "Projects/Jenkins.md",
+    "Introduction.md"
+  ]
+}
