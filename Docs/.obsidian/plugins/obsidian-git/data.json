@@ -16,7 +16,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "C:\\Users\\micha\\RepoClones\\docs",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
