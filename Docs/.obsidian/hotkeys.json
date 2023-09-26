@@ -7,12 +7,21 @@
       "key": "B"
     }
   ],
-  "obsidian-git:pull": [
+  "obsidian-git:push2": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "P"
+    }
+  ],
+  "obsidian-git:create-branch": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }
