@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Containerized-CICD/Docker.md",
+                "file": "Projects/Containerized-CICD/Ansible.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Containerized-CICD/Docker.md",
+                "file": "Projects/Containerized-CICD/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Containerized-CICD/Docker.md",
+                "file": "Projects/Containerized-CICD/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Containerized-CICD/Docker.md"
+                "file": "Projects/Containerized-CICD/Ansible.md"
               }
             }
           }
@@ -155,8 +155,9 @@
   },
   "active": "47d32659062c4bf9",
   "lastOpenFiles": [
-    "Projects/Containerized-CICD/Jenkins.md",
     "Projects/Containerized-CICD/Docker.md",
+    "Projects/Containerized-CICD/Ansible.md",
+    "Projects/Containerized-CICD/Jenkins.md",
     "2023-09-26.md",
     "README.md",
     "Projects/Jenkins.md"
