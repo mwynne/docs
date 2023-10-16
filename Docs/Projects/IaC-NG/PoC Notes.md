@@ -4,6 +4,7 @@
 - Natural Language Generative AI model interface
 - Suggest a sequence of tasks/commands/scripts be executed to achieve the desired outcome 
 - Human to confirm
-- Detailed system information gathering 
+- Detailed system information gathering
+- ZeroMQ-based? 
 - System information is tracked in a natural language format
 - The natural language documentation is the code
