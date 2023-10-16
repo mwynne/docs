@@ -1,5 +1,9 @@
 - Distributed & Routed (like IP)
 - Every node or resource knows about or can query other resources, either directly or indirectly
 - Broadcast segments?
-- 
-- 
+- Natural Language Generative AI model interface
+- Suggest a sequence of tasks/commands/scripts be executed to achieve the desired outcome 
+- Human to confirm
+- Detailed system information gathering 
+- System information is tracked in a natural language format
+- The natural language documentation is the code
