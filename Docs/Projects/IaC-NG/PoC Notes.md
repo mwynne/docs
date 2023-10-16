@@ -1,0 +1,5 @@
+- Distributed & Routed (like IP)
+- Every node or resource knows about or can query other resources, either directly or indirectly
+- Broadcast segments?
+- 
+- 
