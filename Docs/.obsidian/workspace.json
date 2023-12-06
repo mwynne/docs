@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e5e7366704f4eb05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47d32659062c4bf9",
+  "active": "e5e7366704f4eb05",
   "lastOpenFiles": [
     "Projects/Containerized-CICD/Jenkins.md",
     "Projects/IaC-NG/PoC Notes.md",
